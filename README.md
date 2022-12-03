@@ -15,9 +15,9 @@
 Ante estas problematicas he desarrollado un modelo que va a predecir que empleados tienen mas posibilidad de renunciar, asi poder facilitar al Departamento de Recursos Humanos.
 
 ### Dataset
-- Participaci6n laboral
+- Participación laboral
 - Educación
-- Satisfaccion laboral
+- Satisfacción laboral
 - Clasificación de Rendimiento
 - Satisfacción en las relaciones
 - Equilibrio trabajo-vida
