@@ -12,7 +12,7 @@
 - En promedio, se necesitan 52 dias para cubrir un puesto.
 
 ### Introducción
-Ante estas problematicas he desarrollado un modelo que va a predecir que empleados tienen mas posibilidad de renunciar, asi poder facilitar al Departamento de Recursos Humanos.
+Ante estas problematicas he desarrollado un modelo que va a predecir que empleados tienen más posibilidad de renunciar, así poder facilitar al Departamento de Recursos Humanos.
 
 ### Dataset
 - Participación laboral
