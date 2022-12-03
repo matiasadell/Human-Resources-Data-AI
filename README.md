@@ -1,4 +1,4 @@
-# Human Resources Data | AI
+# Recursos Humanos | IA
 
 ### Problematicas
 - Contratar y retener empleados son tareas extremadamente complejas que requieren capital, tiempo y habilidades.
